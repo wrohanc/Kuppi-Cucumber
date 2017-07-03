@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 /**
  * Created by rohan on 2017-07-03.
  */
-public class FacebookLogin {
+public class WebSiteLogin {
     WebDriver webDriver;
 
     @Given("^Open browser window$")
